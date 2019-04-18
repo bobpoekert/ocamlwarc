@@ -15,7 +15,7 @@ B /Users/bob/.opam/4.07.0/lib/sexplib
 B /Users/bob/.opam/4.07.0/lib/sexplib0
 B /Users/bob/.opam/4.07.0/lib/stringext
 B /Users/bob/.opam/4.07.0/lib/uri
-B ../../_build/default/lib/warc/.warc.objs
+B _build/default/.warc.objs
 S /Users/bob/.opam/4.07.0/lib/base
 S /Users/bob/.opam/4.07.0/lib/base/caml
 S /Users/bob/.opam/4.07.0/lib/base/shadow_stdlib
