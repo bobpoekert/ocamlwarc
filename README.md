@@ -1,5 +1,5 @@
 # ocamlwarc
-WARC parser for ocaml
+[WARC](https://en.wikipedia.org/wiki/Web_ARChive) parser for ocaml
 
 
 See warc.mli for interface
